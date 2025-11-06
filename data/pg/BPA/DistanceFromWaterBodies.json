@@ -11,6 +11,8 @@
         "notifiedWaterBodies": 15,
         "otherNotifiedWaterBodies": 6,
         "otherLargePondsWaterBodies": 10,
+        "minorDrains": 0,
+        "smallPonds": 0,
         "active": true
     },
     {
@@ -22,6 +24,8 @@
         "notifiedWaterBodies": 15,
         "otherNotifiedWaterBodies": 6,
         "otherLargePondsWaterBodies": 10,
+        "minorDrains": 0,
+        "smallPonds": 0,
         "active": true
     },
     {
@@ -33,6 +37,8 @@
         "notifiedWaterBodies": 15,
         "otherNotifiedWaterBodies": 6,
         "otherLargePondsWaterBodies": 10,
+        "minorDrains": 0,
+        "smallPonds": 0,
         "active": true
     }
 ]

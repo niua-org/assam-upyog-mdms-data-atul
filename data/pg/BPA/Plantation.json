@@ -7,6 +7,7 @@
             "occupancy": "residential",
             "permissible": 0.05,
             "percent": 5,
+            "noOfTreesToBePlant": 10,
             "active": true
         },
         {
@@ -14,6 +15,7 @@
             "occupancy": "mercantile / commercial",
             "permissible": 0.05,
             "percent": 3,
+            "noOfTreesToBePlant": 10,
             "active": true
         },
         {
@@ -21,6 +23,7 @@
             "occupancy": "industrial",
             "permissible": 0.05,
             "percent": 2,
+            "noOfTreesToBePlant": 10,
             "active": true
         }
     ]
