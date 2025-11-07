@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.barpetagp",
+  "tenantId": "pg.barpetagp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.barpetagp",
+        "code": "pg.barpetagp",
         "children": [
           {
             "id": "10577b04-3a64-461b-a1b1-2ad272c0bf3b",

@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.natundehar",
+  "tenantId": "pg.natundehar",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.natundehar",
+        "code": "pg.natundehar",
         "children": [
           {
             "id": "b0488f7d-242f-4e59-9cc2-1bb8d58dbd27",

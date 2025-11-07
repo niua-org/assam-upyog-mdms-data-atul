@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.nalbarigp",
+  "tenantId": "pg.nalbarigp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.nalbarigp",
+        "code": "pg.nalbarigp",
         "children": [
           {
             "id": "54ed8152-e661-4e99-bce9-34c8e5290820",

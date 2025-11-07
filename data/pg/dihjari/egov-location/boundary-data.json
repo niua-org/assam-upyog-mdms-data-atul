@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.dihjari",
+  "tenantId": "pg.dihjari",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.dihjari",
+        "code": "pg.dihjari",
         "children": [
           {
             "id": "dd6bcc72-79c9-4c9a-bc21-711308ff843b",

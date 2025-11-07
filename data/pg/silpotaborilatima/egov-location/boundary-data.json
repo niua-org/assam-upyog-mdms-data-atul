@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.silpotaborilatima",
+  "tenantId": "pg.silpotaborilatima",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.silpotaborilatima",
+        "code": "pg.silpotaborilatima",
         "children": [
           {
             "id": "7ebfca67-7e10-4760-8124-7c471f3d83b2",

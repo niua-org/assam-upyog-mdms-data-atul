@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.ghungoorgp",
+  "tenantId": "pg.ghungoorgp",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.ghungoorgp",
+        "code": "pg.ghungoorgp",
         "children": [
           {
             "id": "49c5y357-be4c-474c-b3cd-41baf1e71171",

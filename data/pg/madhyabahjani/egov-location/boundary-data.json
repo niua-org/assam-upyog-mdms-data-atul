@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.madhyabahjani",
+  "tenantId": "pg.madhyabahjani",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.madhyabahjani",
+        "code": "pg.madhyabahjani",
         "children": [
           {
             "id": "49c52357-be4c-474c-b3cd-41baf1e71171",

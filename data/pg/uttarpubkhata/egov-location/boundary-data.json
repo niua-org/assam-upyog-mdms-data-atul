@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.uttarpubkhata",
+  "tenantId": "pg.uttarpubkhata",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.uttarpubkhata",
+        "code": "pg.uttarpubkhata",
         "children": [
           {
             "id": "42d07b64-df6e-46bf-a2cd-6ee060f699c4",

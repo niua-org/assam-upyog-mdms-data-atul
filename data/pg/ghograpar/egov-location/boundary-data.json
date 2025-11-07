@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.ghograpar",
+  "tenantId": "pg.ghograpar",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.ghograpar",
+        "code": "pg.ghograpar",
         "children": [
           {
             "id": "309488e1-e99a-43e4-a14f-9c0cde26a61e",

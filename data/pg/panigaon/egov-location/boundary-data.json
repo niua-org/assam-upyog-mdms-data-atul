@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.panigaon",
+  "tenantId": "pg.panigaon",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.panigaon",
+        "code": "pg.panigaon",
         "children": [
           {
             "id": "0c993516-dfef-4032-a9ab-cf078928b5e5",

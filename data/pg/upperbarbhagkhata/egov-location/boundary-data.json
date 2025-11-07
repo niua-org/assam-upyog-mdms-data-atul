@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.upperbarbhagkhata",
+  "tenantId": "pg.upperbarbhagkhata",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.upperbarbhagkhata",
+        "code": "pg.upperbarbhagkhata",
         "children": [
           {
             "id": "eaa911b3-699a-417e-98e2-a9dc5c10232f",

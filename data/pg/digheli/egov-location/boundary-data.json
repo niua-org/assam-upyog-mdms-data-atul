@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.digheli",
+  "tenantId": "pg.digheli",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.digheli",
+        "code": "pg.digheli",
         "children": [
           {
             "id": "1432d1d0-c9a4-4f48-a6e3-a845efa4cf00",
