@@ -826,6 +826,10 @@
         {
             "format": "BP/[CITY.CODE]/[cy:ddMMyyyy]/[SEQ_EGOV_COMMON]",
             "idname": "bpa.bp.receipt.number"
+        },             
+        {
+            "format": "APP/[SEQ_EGOV_COMMON]",
+            "idname": "bpa.application.number"
         }
     ]
 }
