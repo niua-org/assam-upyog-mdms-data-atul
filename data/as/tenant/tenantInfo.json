@@ -69,6 +69,19 @@
       ]
     },
     {
+      "code": "as.tinsukiamb",
+      "districtCode": "TINSUKIA_MB",
+      "population": "406192",
+      "malePopulation": "6815",
+      "femalePopultion": "5700",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
       "code": "as.silchar",
       "districtCode": "CACHAR",
       "population": "31059",
