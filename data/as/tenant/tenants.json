@@ -105,7 +105,7 @@
       }
     },
     {
-      "code": "as.tinsukia",
+      "code": "as.tinsukiamb",
       "name": "Tinsukia",
       "description": "Tinsukia",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -1071,27 +1071,6 @@
         "planningAreaCode": "DIBRUGARH_MP",
         "code": "1644",
         "ddrName": "Kololuwa Gram Panchayat"
-      }
-    },
-    {
-      "code": "as.tinsukiamb",
-      "name": "Tinsukia MB",
-      "description": "Tinsukia MB",
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
-      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
-      "imageId": null,
-      "domainUrl": "https://www.upyog.niua.org",
-      "type": "CITY",
-      "emailId": "info.tinsukiamb@gmail.com",
-      "city": {
-        "name": "Tinsukia GP",
-        "ulbGrade": "GRAM_PANCHAYAT",
-        "districtName": "Tinsukia",
-        "districtCode": "TINSUKIA",
-        "districtTenantCode": "as.tinsukiamb",
-        "planningAreaCode": "TINSUKIA_MP",
-        "code": "1645",
-        "ddrName": "Tinsukia Gram Panchayat"
       }
     },
     {
