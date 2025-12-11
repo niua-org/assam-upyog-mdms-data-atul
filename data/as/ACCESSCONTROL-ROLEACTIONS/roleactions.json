@@ -32973,6 +32973,42 @@
       "actionid": 1931,
       "actioncode": "",
       "tenantId": "as"
-    }
+    },
+	  {
+  "rolecode": "OBPS_REPORT_VIEWER",
+  "actionid": 3086,
+  "actioncode": "",
+  "tenantId": "as"
+},
+{
+  "rolecode": "OBPS_REPORT_VIEWER",
+  "actionid": 3087,
+  "actioncode": "",
+  "tenantId": "as"
+},
+{
+  "rolecode": "OBPS_REPORT_VIEWER",
+  "actionid": 3088,
+  "actioncode": "",
+  "tenantId": "as"
+},
+{
+  "rolecode": "OBPS_REPORT_VIEWER",
+  "actionid": 3089,
+  "actioncode": "",
+  "tenantId": "as"
+},
+{
+  "rolecode": "OBPS_REPORT_VIEWER",
+  "actionid": 3090,
+  "actioncode": "",
+  "tenantId": "as"
+},
+{
+  "rolecode": "OBPS_REPORT_VIEWER",
+  "actionid": 3091,
+  "actioncode": "",
+  "tenantId": "as"
+}
   ]
 }
