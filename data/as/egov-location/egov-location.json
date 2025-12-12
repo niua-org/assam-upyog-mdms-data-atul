@@ -666,114 +666,6 @@
         },
         {
           "id": 17,
-          "districtCode": "DIBRUGARH",
-          "districtName": "Dibrugarh",
-          "active": true,
-          "planningAreas": [
-            {
-              "id": 20,
-              "districtCode": "DIBRUGARH",
-              "planningAreaCode": "DIBRUGARH_MP",
-              "planningAreaName": "Dibrugarh Master Plan",
-              "planningAreaGisCode": "Dibrugarh",
-              "active": true,
-              "ppAuthority": {
-                "id": 20,
-                "planningAreaCode": "DIBRUGARH_MP",
-                "districtCode": "DIBRUGARH",
-                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
-                "ppAuthorityName": "Development Authority",
-                "active": true
-              },
-              "bpAuthorities": [
-                {
-                  "name": "GRAM_PANCHAYAT",
-                  "code": "GRAM_PANCHAYAT",
-                  "active": true
-                },
-                {
-                  "name": "MUNICIPAL_BOARD",
-                  "code": "MUNICIPAL_BOARD",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": 18,
-          "districtCode": "TINSUKIA",
-          "districtName": "Tinsukia",
-          "active": true,
-          "planningAreas": [
-            {
-              "id": 21,
-              "districtCode": "TINSUKIA",
-              "planningAreaCode": "TINSUKIA_MP",
-              "planningAreaName": "Tinsukia Master Plan",
-              "planningAreaGisCode": "Tinsukia",
-              "active": true,
-              "ppAuthority": {
-                "id": 21,
-                "planningAreaCode": "TINSUKIA_MP",
-                "districtCode": "TINSUKIA",
-                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
-                "ppAuthorityName": "Development Authority",
-                "active": true
-              },
-              "bpAuthorities": [
-                {
-                  "name": "GRAM_PANCHAYAT",
-                  "code": "GRAM_PANCHAYAT",
-                  "active": true
-                },
-                {
-                  "name": "MUNICIPAL_BOARD",
-                  "code": "MUNICIPAL_BOARD",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": 19,
-          "districtCode": "CACHAR",
-          "districtName": "Cachar",
-          "active": true,
-          "planningAreas": [
-            {
-              "id": 22,
-              "districtCode": "CACHAR",
-              "planningAreaCode": "SILCHAR_MP",
-              "planningAreaName": "Silchar Master Plan",
-              "planningAreaGisCode": "Silchar",
-              "active": true,
-              "ppAuthority": {
-                "id": 22,
-                "planningAreaCode": "SILCHAR_MP",
-                "districtCode": "CACHAR",
-                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
-                "ppAuthorityName": "Development Authority",
-                "active": true
-              },
-              "bpAuthorities": [
-                {
-                  "name": "GRAM_PANCHAYAT",
-                  "code": "GRAM_PANCHAYAT",
-                  "active": true
-                },
-                {
-                  "name": "MUNICIPAL_BOARD",
-                  "code": "MUNICIPAL_BOARD",
-                  "active": true
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": 20,
           "districtCode": "SRIBHUMI_KARIMGANJ",
           "districtName": "Sribhumi/ Karimganj",
           "active": true,
@@ -809,7 +701,7 @@
           ]
         },
         {
-          "id": 21,
+          "id": 18,
           "districtCode": "DHEMAJI",
           "districtName": "Dhemaji",
           "active": true,
