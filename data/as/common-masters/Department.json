@@ -196,6 +196,91 @@
       "name": "Soil Test Department",
       "code": "SOIL_TEST_DEPT",
       "active": true
+    },
+    {
+      "name": "Water Resources Dept",
+      "code": "WATER_RESOURCE_DEPT",
+      "active": true
+    },
+    {
+      "name": "Structural Safety Dept",
+      "code": "STRUCTURAL_SAFETY_DEPT",
+      "active": true
+    },
+    {
+      "name": "STP Clearance Dept",
+      "code": "STP_CLEARANCE_DEPT",
+      "active": true
+    },
+    {
+      "name": "SAD Clearance Dept",
+      "code": "SAD_CLEARANCE_DEPT",
+      "active": true
+    },
+    {
+      "name": "Sacfa RF Dept",
+      "code": "SACFA_RF_DEPT",
+      "active": true
+    },
+    {
+      "name": "Pollution Control Department",
+      "code": "POLLUTION_CONTROL_DEPT",
+      "active": true
+    },
+    {
+      "name": "Police Clearance Dept",
+      "code": "POLICE_CLEARANCE_DEPT",
+      "active": true
+    },
+    {
+      "name": "Lift Safety Dept",
+      "code": "LIFT_SAFETY_DEPT",
+      "active": true
+    },
+    {
+      "name": "Home Security Dept",
+      "code": "HOME_SECURITY_DEPT",
+      "active": true
+    },
+    {
+      "name": "Ground Water Dept",
+      "code": "GROUND_WATER_DEPT",
+      "active": true
+    },
+    {
+      "name": "ESZ Clearance Dept",
+      "code": "ESZ_CLEARANCE_DEPT",
+      "active": true
+    },
+    {
+      "name": "Environment Dept",
+      "code": "ENVIRONMENT_DEPARTMENT",
+      "active": true
+    },
+    {
+      "name": "Electricity Dept",
+      "code": "ELECTRICITY_DEPT",
+      "active": true
+    },
+    {
+      "name": "Civil Aviation Dept",
+      "code": "CIVIL_AVIATION_DEPT",
+      "active": true
+    },
+    {
+      "name": "Azara Circle Dept",
+      "code": "AZARA_CIRCLE_DEPT",
+      "active": true
+    },
+    {
+      "name": "Army Defence Dept",
+      "code": "ARMY_DEPT",
+      "active": true
+    },
+    {
+      "name": "Archaelogy Dept",
+      "code": "ARCHAELOGY_DEPT",
+      "active": true
     }
   ]
 }
