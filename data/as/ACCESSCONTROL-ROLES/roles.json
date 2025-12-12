@@ -996,6 +996,111 @@
       "code": "SOIL_TEST_APPROVER",
       "name": "Soil Test Approver",
       "description": "Soil Test Approver"
+    },
+    {
+      "code": "ARCHAEOLOGY_APPROVER",
+      "name": "Archaology Approver",
+      "description": "Archaelogy Noc Approver"
+    },
+    {
+      "code": "ARMY_DEFENCE_APPROVER",
+      "name": "Army Defence Approver",
+      "description": "Army Defence Noc Approver"
+    },
+    {
+      "code": "AZARA_CIRCLE_APPROVER",
+      "name": "Azara Circle Approver",
+      "description": "Azara Circle Noc Approver"
+    },
+    {
+      "code": "CIVIL_AVIATION_AZARA_APPROVER",
+      "name": "Civil Aviation Azara Approver",
+      "description": "Civil Aviation Azara Noc Approver"
+    },
+    {
+      "code": "CIVIL_AVIATION_APPROVER",
+      "name": "Civil Aviation Approver",
+      "description": "Civil Aviation Noc Approver"
+    },
+    {
+      "code": "ELECTRICAL_INSPECTOR_APPROVER",
+      "name": "Electrical Inspector Approver",
+      "description": "Electrical Inspector Noc Approver"
+    },
+    {
+      "code": "ELECTRICITY_DEPT_APPROVER",
+      "name": "Electricity Department Approver",
+      "description": "Electrical Inspector Noc Approver"
+    },
+    {
+      "code": "ENVIRONMENT_APPROVER",
+      "name": "Environment Approver",
+      "description": "Environment Noc Approver"
+    },
+    {
+      "code": "ESZ_CLEARANCE_APPROVER",
+      "name": "ESZ Clearance Noc Approver",
+      "description": "ESZ Clearance Noc Approver"
+    },
+    {
+      "code": "FIRE_SAFETY_APPROVER",
+      "name": "Fire Safety Noc Approver",
+      "description": "Fire Safety Noc Approver"
+    },
+    {
+      "code": "GROUND_WATER_APPROVER",
+      "name": "Ground Water Noc Approver",
+      "description": "Ground Water Noc Approver"
+    },
+    {
+      "code": "HEALTH_AUTHORITY_APPROVER",
+      "name": "Health Authority Noc Approver",
+      "description": "Health Authority Noc Approver"
+    },
+    {
+      "code": "HOME_SECURITY_APPROVER",
+      "name": "Home Security Noc Approver",
+      "description": "Home Security Noc Approver"
+    },
+    {
+      "code": "LIFT_SAFETY_APPROVER",
+      "name": "Lift Safety Noc Approver",
+      "description": "Lift Safety Noc Approver"
+    },
+    {
+      "code": "POLICE_CLEARANCE_APPROVER",
+      "name": "Police Clearance Noc Approver",
+      "description": "Police Clearance Noc Approver"
+    },
+    {
+      "code": "POLLUTION_CONTROL_APPROVER",
+      "name": "Pollution Control Noc Approver",
+      "description": "Pollution Control Noc Approver"
+    },
+    {
+      "code": "SACFA_RF_APPROVER",
+      "name": "Sacfa Noc Approver",
+      "description": "Sacfa Noc Approver"
+    },
+    {
+      "code": "SAD_CLEARANCE_APPROVER",
+      "name": "SAD Clearance Noc Approver",
+      "description": "SAD Clearance Noc Approver"
+    },
+    {
+      "code": "STP_CLEARANCE_APPROVER",
+      "name": "STP Clearance Noc Approver",
+      "description": "STP Clearance Noc Approver"
+    },
+    {
+      "code": "STRUCTURAL_SAFETY_APPROVER",
+      "name": "Structural Safety Noc Approver",
+      "description": "Structural Safety Noc Approver"
+    },
+    {
+      "code": "WATER_RESOURCES_APPROVER",
+      "name": "Water Resources Approver",
+      "description": "Water Resources Noc Approver"
     }
   ]
 }
