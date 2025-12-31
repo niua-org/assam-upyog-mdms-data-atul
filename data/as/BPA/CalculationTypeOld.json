@@ -1,7 +1,7 @@
 {
     "tenantId": "as",
     "moduleName": "BPA",
-    "CalculationType": [
+    "CalculationTypeOld": [
         {
             "applicationType": "BUILDING_PLAN_SCRUTINY",
             "serviceType": "ALL",
