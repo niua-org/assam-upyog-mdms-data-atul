@@ -1,0 +1,23 @@
+{
+  "tenantId": "as",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Assam",
+        "localname": "Assam",
+        "longitude": null,
+        "latitude": null,
+        "label": "State",
+        "code": "as",
+        "children": []
+      }
+    }
+  ]
+}
