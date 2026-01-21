@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.sundaridiagp",
+  "tenantId": "as.sundaridia",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.sundaridiagp",
+        "code": "as.sundaridia",
         "children": [
           {
             "id": "54edf265-6fe3-4ed8-9054-030af4a6b6a0",

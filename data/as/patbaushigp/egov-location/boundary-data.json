@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.patbaushigp",
+  "tenantId": "as.patbaushi",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -15,7 +15,7 @@
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.patbaushigp",
+        "code": "as.patbaushi",
         "children": [
           {
             "id": "d9df3cd4-b0bf-40ce-b370-d283b8451b0d",

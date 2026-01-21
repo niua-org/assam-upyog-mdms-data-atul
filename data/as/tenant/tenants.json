@@ -1779,7 +1779,7 @@
       "city": {
         "name": "Bongaigaon",
         "districtName": "Bongaigaon",
-        "ulbGrade": "GRAM_PANCHAYAT",
+        "ulbGrade": "MUNICIPAL_BOARD",
         "districtCode": "BONGAIGAON",
         "districtTenantCode": "as.bongaigaonmb",
         "planningAreaCode": "BONGAIGAON_MP",
@@ -1799,7 +1799,7 @@
       "emailId": "complaints.nagaonmb@gmail.com",
       "city": {
         "name": "Nagaon MB",
-        "districtCode": "NAGAON_MB",
+        "districtCode": "NAGAON",
         "districtName": null,
         "districtTenantCode": "as.nagaonmb",
         "planningAreaCode": "NAGAON_MP",
